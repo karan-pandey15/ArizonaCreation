@@ -20,7 +20,7 @@ const categories = [
   { name: "Chikankari", image: cat4 },
   { name: "Skirts", image: cat7 },
   { name: "Bestsellers", image: cat6 },
-  { name: "Handmade Chikankari", image: cat7 },
+  { name: "Handmade", image: cat7 },
 ];
 
 const Category = () => {

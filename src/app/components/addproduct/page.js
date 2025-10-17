@@ -48,7 +48,7 @@ const categories = [
   "Chikankari",
   "Skirts",
   "Bestsellers",
-  "Handmade Chikankari",
+  "Handmade",
 ];
  
  
