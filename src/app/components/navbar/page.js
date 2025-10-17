@@ -109,7 +109,7 @@ const Navbar = () => {
                 </div>
               ) : (
                 <span className="text-sm">
-                  Hello,{" "}
+                  {" "}
                   <Link href="/components/signin" className="underline">
                     sign in
                   </Link>
